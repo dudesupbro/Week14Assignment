@@ -1,0 +1,12 @@
+body {
+    background-color: gray;
+}
+
+.card {
+    background-color: bisque;
+    color: black;
+}
+
+.card-footer {
+    background-color:blanchedalmond;
+}
